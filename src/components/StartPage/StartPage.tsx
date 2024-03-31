@@ -13,7 +13,7 @@ function StartPage() {
       >
         <Space direction="vertical" align="center">
           <Image
-            src="/public/Pokemon Clicker.png"
+            src="/Pokemon Clicker.png"
             preview={false}
             alt="Pokemon Clicker Logo"
           />
